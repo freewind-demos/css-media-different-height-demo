@@ -1,8 +1,8 @@
-Css Hello World Demo
-====================
+Css Media Different Height Demo
+===============================
 
-Use css in html pages.
+在不同的浏览器高度下，使用不同的样式。
 
-Open `index.html` in your browser.
-
-![demo](./images/demo.jpg)
+```
+npm run demo
+```
